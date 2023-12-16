@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samuelsur
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning control theory and machine learning
-- 📫 How to reach me: samuelsur.xyz
+- 🌱 I’m currently studying a Master's program Cybernetics and Robotics at [CTU](https://intranet.fel.cvut.cz/en/)
+- 📫 How to reach me: [samuelsur.xyz](samuelsur.xyz)
 
 <!---
 samuelsur/samuelsur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
